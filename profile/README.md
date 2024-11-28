@@ -1,12 +1,18 @@
-## Hi there 👋
+![](assets/whispher-banner.png)
+![GitHub Repo stars](https://img.shields.io/github/stars/constttdev/pressflow)
 
-<!--
+# Whisper Chat
+A Simple and fast chatting app/website
 
-**Here are some ideas to get you started:**
+## Installation
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Installation will get added soon!
+
+## Support
+
+For support, join the official [Discord server](https://discord.gg/4SSmCATGbZ) or create a discussion on our github repo.
+
+## Authors
+
+- [@constt](https://www.github.com/constt)
+- [@yvtx](https://www.github.com/mbreede08)
