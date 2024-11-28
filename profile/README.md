@@ -1,7 +1,7 @@
-![](assets/whispher-banner.png)
+![](whispher-banner.png)
 ![GitHub Repo stars](https://img.shields.io/github/stars/constttdev/pressflow)
 
-# Whisper Chat
+# Whisper Chat 
 A Simple and fast chatting app/website
 
 ## Installation
